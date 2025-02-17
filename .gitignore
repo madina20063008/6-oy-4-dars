@@ -1,0 +1,49 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+src/Components/Boolean.jsx
+src/Components/Button.jsx
+src/Components/ButtonColor.jsx
+src/Components/Filterlash.jsx
+src/Components/InlineStyle.jsx
+src/Components/MahsulotNarxi.jsx
+src/Components/Matematika.jsx
+src/Components/Obyekt.jsx
+src/Components/Rasm.jsx
+src/Components/Salomlashish.jsx
+src/Components/ShaharlarRoyxati.jsx
+src/Components/ShartliRaqam.jsx
+src/Components/Til.jsx
+src/Components/Boolean.jsx
+src/Components/Button.jsx
+src/Components/ButtonColor.jsx
+src/Components/Filterlash.jsx
+src/Components/InlineStyle.jsx
+src/Components/MahsulotNarxi.jsx
+src/Components/Matematika.jsx
+src/Components/Obyekt.jsx
+src/Components/Rasm.jsx
+src/Components/Salomlashish.jsx
+src/Components/ShaharlarRoyxati.jsx
+src/Components/ShartliRaqam.jsx
+src/Components/Til.jsx
